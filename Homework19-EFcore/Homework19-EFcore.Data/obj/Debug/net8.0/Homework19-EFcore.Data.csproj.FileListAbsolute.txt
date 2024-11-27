@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\bin\Debug\net8.0\Homework19-EFcore.Data.deps.json
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\bin\Debug\net8.0\Homework19-EFcore.Data.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\bin\Debug\net8.0\Homework19-EFcore.Data.dll
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\bin\Debug\net8.0\Homework19-EFcore.Data.pdb
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\bin\Debug\net8.0\Homework19-EFcore.Domain.dll
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\bin\Debug\net8.0\Homework19-EFcore.Domain.pdb
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework.A155D12C.Up2Date
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.dll
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\refint\Homework19-EFcore.Data.dll
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.pdb
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\Homework19-EFcore.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Data\obj\Debug\net8.0\ref\Homework19-EFcore.Data.dll

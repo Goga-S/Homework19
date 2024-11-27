@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\bin\Debug\net8.0\Homework19-EFcore.Domain.deps.json
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\bin\Debug\net8.0\Homework19-EFcore.Domain.dll
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\bin\Debug\net8.0\Homework19-EFcore.Domain.pdb
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\Homework19-EFcore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\Homework19-EFcore.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\Homework19-EFcore.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\Homework19-EFcore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\Homework19-EFcore.Domain.dll
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\refint\Homework19-EFcore.Domain.dll
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\Homework19-EFcore.Domain.pdb
+C:\Users\user\Desktop\Homeworks\Homework19\Homework19-EFcore\Homework19-EFcore.Domain\obj\Debug\net8.0\ref\Homework19-EFcore.Domain.dll

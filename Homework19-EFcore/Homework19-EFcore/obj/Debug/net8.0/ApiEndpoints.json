@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Homework20_EFcore.Controllers.TaskController",
+    "Method": "AddPerson",
+    "RelativePath": "api/AddPerson",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "Model.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Homework20_EFcore.Controllers.TaskController",
+    "Method": "AddTask",
+    "RelativePath": "api/AddTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "Model.Tasks",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Homework20_EFcore.Controllers.TaskController",
+    "Method": "DeleteAllTasks",
+    "RelativePath": "api/deleteAllTask",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Homework20_EFcore.Controllers.TaskController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/deleteTask",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Homework20_EFcore.Controllers.TaskController",
+    "Method": "getAllTasks",
+    "RelativePath": "api/getAllTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Homework20_EFcore.Controllers.TaskController",
+    "Method": "UpdateTask",
+    "RelativePath": "api/updateTask",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "Model.Tasks",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
